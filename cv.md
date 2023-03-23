@@ -16,3 +16,18 @@ Hi! I dream of becoming a full-stack developer. There is a basic knowledge of pr
 3. JavaScript (Basic)
 4. Python (Basic)
 5. REST API
+*****
+## Example of code
+```
+use strict;
+alert('Hello, world!')
+``` 
+## Expirience
+Not yet
+*****
+## Education
+Nizhny Novgorod Institute of Management - branch of RANEPA, specialty - applied computer science
+*****
+## Languages
+* English - Pre-Intermediate
+* Russian - Native Speaker
