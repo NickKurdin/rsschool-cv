@@ -1,13 +1,13 @@
 # Nikita Kurdin
 
 ## Contacts
-* [Vk!](https://vk.com/nikkurdin)
-* [Telegram!](https://t.me/kurdin_nick)
+* [Vk](https://vk.com/nikkurdin)
+* [Telegram](https://t.me/kurdin_nick)
 * Discord: nickex (NickKurdin)#8605
 * Email: kurdin.nick2015@gmail.com
 
 ## About me
-![My photo](/avatar.jpg "It's me")
+![](/avatar.jpg "It's me")
 Hi! I dream of becoming a full-stack developer. There is a basic knowledge of programming and English. Ready to study and conquer the world!
 
 ## Skills
@@ -29,7 +29,7 @@ function multiply(a, b){
 ```
 
 ## Expirience
-[My CV!](https://NickKurdin.github.io/rsschool-cv/cv)
+[My CV](https://NickKurdin.github.io/rsschool-cv/cv)
 
 ## Education
 Nizhny Novgorod Institute of Management - branch of RANEPA, specialty - applied computer science
