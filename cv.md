@@ -8,7 +8,9 @@
 *****
 ## About me
 
-Hi! I dream of becoming a full-stack developer. There is a basic knowledge of programming and English.
+![My photo](‪C:\Users\nickex\Desktop\avatar.jpg "It's me")
+
+Hi! I dream of becoming a full-stack developer. There is a basic knowledge of programming and English. Ready to study and conquer the world!
 
 ## Skills
 1. HTML
@@ -17,13 +19,14 @@ Hi! I dream of becoming a full-stack developer. There is a basic knowledge of pr
 4. Python (Basic)
 5. REST API
 *****
-## Example of code
-```
-use strict;
-alert('Hello, world!')
+## My first kata on CodeWars
+function multiply(a, b){
+  return a * b //add 'return' to return result of calculation
+}
 ``` 
 ## Expirience
-Not yet
+My CV 
+https://github.com/NickKurdin/rsschool-cv#rsschool-cv
 *****
 ## Education
 Nizhny Novgorod Institute of Management - branch of RANEPA, specialty - applied computer science
